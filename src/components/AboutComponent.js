@@ -1,7 +1,7 @@
 import React from 'react';
 import {Media, Breadcrumb, BreadcrumbItem, Card, CardBody, CardHeader } from 'reactstrap';
 import { Link } from 'react-router-dom';
-
+import { baseUrl } from '../shared/baseUrl';
 
 function About(props) {
 
@@ -9,7 +9,7 @@ function About(props) {
         return (
             <div className='row mt-5'>
                 <div className='col-12 col-md-2'>
-            <Media object src={leader.image} alt='leader'>
+            <Media object src={baseUrl + leader.image} alt='leader'>
             </Media>
             </div>
             <div className='col-12 col-md-5'>

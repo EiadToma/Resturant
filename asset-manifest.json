@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Resturant/static/css/main.0e5a1550.css",
-    "main.js": "/Resturant/static/js/main.9569c328.js",
+    "main.js": "/Resturant/static/js/main.f854af48.js",
     "static/js/787.74266e6f.chunk.js": "/Resturant/static/js/787.74266e6f.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/Resturant/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/Resturant/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/Resturant/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/Resturant/index.html",
     "main.0e5a1550.css.map": "/Resturant/static/css/main.0e5a1550.css.map",
-    "main.9569c328.js.map": "/Resturant/static/js/main.9569c328.js.map",
+    "main.f854af48.js.map": "/Resturant/static/js/main.f854af48.js.map",
     "787.74266e6f.chunk.js.map": "/Resturant/static/js/787.74266e6f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0e5a1550.css",
-    "static/js/main.9569c328.js"
+    "static/js/main.f854af48.js"
   ]
 }
